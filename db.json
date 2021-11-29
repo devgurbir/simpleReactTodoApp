@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "status": "false"
+    },
+    {
+      "id": 2,
+      "title": "Read React eBook",
+      "status": "false"
+    },
+    {
+      "title": "Do React Assignments",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Read Data Fetching with useEffect",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Chill a bit",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Form Handling in React",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Vinland Saga Episode",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Brush teeth",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Review your day",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Try to find & read a fiction book",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Let go of your worries",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
