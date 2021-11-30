@@ -21,11 +21,6 @@
       "id": 4
     },
     {
-      "title": "Chill a bit",
-      "status": false,
-      "id": 5
-    },
-    {
       "title": "Form Handling in React",
       "status": false,
       "id": 6
@@ -36,19 +31,9 @@
       "id": 7
     },
     {
-      "title": "Brush teeth",
-      "status": false,
-      "id": 8
-    },
-    {
       "title": "Review your day",
       "status": false,
       "id": 9
-    },
-    {
-      "title": "Try to find & read a fiction book",
-      "status": false,
-      "id": 10
     },
     {
       "title": "Let go of your worries",
